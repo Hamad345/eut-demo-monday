@@ -1,0 +1,40 @@
+.BTN{
+    width: 28%;
+}
+@media (min-width: 375px) {
+  /* Your CSS rules for screens wider than 375px */
+ 
+ .BTN{
+    width: 25%;
+} 
+}
+@media (min-width: 425px) {
+  /* Your CSS rules for screens wider than 375px */
+ 
+ .BTN{
+    width: 21%;
+    
+} 
+}
+@media (min-width: 768px) {
+  /* Your CSS rules for screens wider than 375px */
+ 
+ .BTN{
+    width: 28%;
+} 
+}
+@media (min-width: 1024px) {
+  /* Your CSS rules for screens wider than 375px */
+ 
+ .BTN{
+    width: 25%;
+} 
+}
+/* From Uiverse.io by LightAndy1 */ 
+@media (min-width: 1440px) {
+  /* Your CSS rules for screens wider than 375px */
+ 
+ .BTN{
+    width: 14%;
+} 
+}
